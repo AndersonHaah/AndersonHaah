@@ -19,11 +19,12 @@ Vamos conversar?
 <a href="https://www.instagram.com/anderson.haah" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <br>
 <hr>
+<!--
 Meus Status:
 <br>
 <br>
-
 ![Anderson Stats](https://github-readme-stats.vercel.app/api?username=andersonhaah&show_icons=true&theme=transparent)  
+-->
 
 <br>
 <br>
