@@ -3,14 +3,6 @@
 Me chamo Anderson, sou <strong>Front-end Junior</strong> atualmente estou me profissionalizando em ser <strong>FullStack</strong>! :books:
 <br>
 <br>
-As tecnologias que eu gosto de utilizar são:
-<br>
-<br>
-  <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"> 
-  <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"> 
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> 
-<br>
 <hr>
 Vamos conversar?
 <br>
